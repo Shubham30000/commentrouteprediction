@@ -1,0 +1,17 @@
+# Python
+commentroute-backend/venv/
+commentroute-backend/__pycache__/
+commentroute-backend/*.pyc
+commentroute-backend/*.db
+commentroute-backend/.env
+commentroute-backend/app/ml_models/*.joblib
+
+# Node
+commentroute-frontend/node_modules/
+commentroute-frontend/dist/
+commentroute-frontend/.env.local
+commentroute-frontend/.env.production
+
+# General
+.DS_Store
+Thumbs.db
